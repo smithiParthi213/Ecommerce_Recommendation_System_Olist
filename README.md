@@ -3,7 +3,8 @@
 Team Members
 
 Sharmadha Parthiban 002100759
-Tejal Sadand
+
+Tejal Tandel 001563752
 
 **OLIST DATA**
 
@@ -16,14 +17,31 @@ The objective of the project is to analyze the datsets and enhance the sales and
 **PERSONAS**
 
 Potential Customers
+
 • Explore products recommended by the system 
 • Explore Products which are similar to what they are about to buy or have purchased previously
 
 Marketing Automated Systems
+
  • Recommend products to customers based on their liking along with selling    opportunities
  • Optimize the Marketing strategy to boost Revenue and offer targeted recommendations 
 
 Stakeholders
+
  • Developing dashboards to get insights on metrics for Revenue by Products, day of week and month
 
+**IMPLEMENTATION**
+
+1. Gathered datset from Kaggle and used Alteryx for data profiling
+2. Exploratory data analysis was performed on the datasets to get insights on the trends using python in Jupyter Notebooks
+3. Performed algorithms including RFM, Market Basket Analysis, Customer Segmentation & Satisfaction for developing a reliable system
+4. Predicted customer lifetime value
+5. Developed personalized recommendation systems
+6. Created dashboards for the stakeholders to get an outline of the business health.
+
+**DASHBOARDS**
+
+**LINKS**
+
+**REFERENCES**
 
