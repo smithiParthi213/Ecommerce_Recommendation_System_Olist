@@ -62,10 +62,13 @@ The dashboards are implemented using PowerBi for the stakeholders to have an ove
 
 **LINKS**
 1. Dashboard Link 
- https://tinyurl.com/2ppaysku
+https://tinyurl.com/2ppaysku
  
-2. Recommedation Application 
- https://olist-marketing-analytics.herokuapp.com/ 
+2. Streamlit Dash Application 
+http://localhost:8501/
+ 
+3. Recommedation Application 
+https://olist-marketing-analytics.herokuapp.com/ 
 
 **REFERENCES**
 
