@@ -41,6 +41,7 @@ Stakeholders
 
 **DASHBOARDS**
 
+The dashboards are implemented using PowerBi for the stakeholders to have an overview of the commerece system's health.
 
 ![image](https://user-images.githubusercontent.com/91292705/167162217-449269a0-dd03-4bef-bc03-e39e39dfd71a.png)
 
@@ -54,6 +55,17 @@ Stakeholders
 
 
 **LINKS**
+1. Dashboard Link 
+ https://tinyurl.com/2ppaysku
+ 
+2. Recommedation Application 
+ https://olist-marketing-analytics.herokuapp.com/ 
 
 **REFERENCES**
+
+https://www.kaggle.com/code/salvadormarquez/clustering-consumers-by-lifetime-value
+
+https://www.kaggle.com/code/nowingkim/analysis-clustering-rfm-model-with-sqlite
+
+https://www.kaggle.com/code/honeymustardd/geospacil-analysis-of-brazil-ecommerce
 
