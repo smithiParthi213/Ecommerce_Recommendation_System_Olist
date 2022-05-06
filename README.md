@@ -69,3 +69,5 @@ https://www.kaggle.com/code/nowingkim/analysis-clustering-rfm-model-with-sqlite
 
 https://www.kaggle.com/code/honeymustardd/geospacil-analysis-of-brazil-ecommerce
 
+ https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd
+
