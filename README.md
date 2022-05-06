@@ -29,6 +29,11 @@ Marketing Automated Systems
 Stakeholders
 
  • Developing dashboards to get insights on metrics for Revenue by Products, day of week and month
+ 
+ **WORKFLOW**
+ 
+ ![image](https://user-images.githubusercontent.com/91292705/167164671-41be163f-6150-4ae4-8d1d-53d9348189ad.png)
+
 
 **IMPLEMENTATION**
 
@@ -36,8 +41,9 @@ Stakeholders
 2. Exploratory data analysis was performed on the datasets to get insights on the trends using python in Jupyter Notebooks
 3. Performed algorithms including RFM, Market Basket Analysis, Customer Segmentation & Satisfaction for developing a reliable system
 4. Predicted customer lifetime value
-5. Developed personalized recommendation systems
-6. Created dashboards for the stakeholders to get an outline of the business health.
+5. Staged the desired data using Anazon S3 for future analysis
+6. Developed personalized recommendation systems
+7. Created dashboards for the stakeholders to get an outline of the business health.
 
 **DASHBOARDS**
 
