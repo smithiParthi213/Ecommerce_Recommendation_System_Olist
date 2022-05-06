@@ -70,6 +70,12 @@ http://localhost:8501/
 3. Recommedation Application 
 https://olist-marketing-analytics.herokuapp.com/ 
 
+4. Claat Link
+https://codelabs-preview.appspot.com/?file_id=1OqNe4oilvlaCR0YqOe5ohR0jl81Perjy5mFgFGXJ_C4#2
+
+5. ADM Final Documentation
+https://docs.google.com/document/d/1OqNe4oilvlaCR0YqOe5ohR0jl81Perjy5mFgFGXJ_C4/edit#heading=h.bkyk6lvhk5ar
+
 **REFERENCES**
 
 https://www.kaggle.com/code/salvadormarquez/clustering-consumers-by-lifetime-value
