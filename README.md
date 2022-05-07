@@ -71,6 +71,7 @@ http://localhost:8501/
 https://olist-marketing-analytics.herokuapp.com/ 
 
 For customer wise similar product recommendation, we need to input the Customer ID (Reference customer id : 00020, 96954)
+
 For product wised similar recommendation, we need to input Product ID (Reference product id : 04885, 01002)
 
 4. Claat Link
