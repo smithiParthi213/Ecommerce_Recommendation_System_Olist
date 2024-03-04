@@ -1,11 +1,5 @@
 # Olist_Ecommerce_System
 
-Team Members
-
-Sharmadha Parthiban 002100759
-
-Tejal Tandel 001563752
-
 **OLIST DATA**
 
 Olist is a one-stop shop for Brazilian merchants, brands, and marketplaces. They allow merchants and brands to access and operate in Brazil's top marketplaces while also giving improved solutions, service quality, and assortment to those marketplaces. From 2016 to 2018, the dataset contains information on 100k orders placed on several Brazilian marketplaces.It allows  to evaluate an order from a variety of perspectives, including order status, pricing, payment, and freight performance, as well as customer location, product qualities, and customer feedback.
